@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef Ashraf</h1>
 <h3 align="center">I'm Data Engineer In Egypt</h3>
-
+<img> align="right" alt=coding" width=400 src="https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2Xnv_xrRkWg0zDLnFUrq-d&ust=1700863127237000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCLkIaP24IDFQAAAAAdAAAAABAEd&ust=1700863127237000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCLkIaP24IDFQAAAAAdAAAAABAE.gif"</img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefashraf99&label=Profile%20views&color=0e75b6&style=flat" alt="youssefashraf99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/youssef77639550" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/youssef77639550?logo=twitter&style=for-the-badge" alt="https://twitter.com/youssef77639550" /></a> </p>
 
 - 🔭 I’m currently working on **ITIAN ITI Graduate**
 
