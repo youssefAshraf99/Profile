@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Ashraf</h1>
 <h3 align="center">I'm Data Engineer In Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefashraf99&label=Profile%20views&color=0e75b6&style=flat" alt="youssefashraf99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefashraf99&label=Profile%20views&color=0e75b6&style=flat.gif" alt="youssefashraf99" /> </p>
 
 - 💬 Ask me about **Data Engineerin And Data Science**
 
