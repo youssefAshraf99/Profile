@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Ashraf</h1>
 <h3 align="center">I'm Data Engineer In Egypt</h3>
-<img> align="right" alt=coding" width=400 src="https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2Xnv_xrRkWg0zDLnFUrq-d&ust=1700863127237000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCLkIaP24IDFQAAAAAdAAAAABAEd&ust=1700863127237000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCLkIaP24IDFQAAAAAdAAAAABAE.gif"</img>
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefashraf99&label=Profile%20views&color=0e75b6&style=flat" alt="youssefashraf99" /> </p>
 
 
@@ -10,7 +11,7 @@
 
 - 📫 How to reach me **yossfashrafalashmony@gmail.com**
 
-- ⚡ Fun fact **The term "bug" in programming has a fascinating origin. In 1947, when Grace Hopper was working on the Harvard Mark II computer, they found an actual moth causing a glitch. They taped the moth in their logbook, marking the first-ever "computer bug." So the next time you encounter a bug in your code, you can blame it on a tradition that dates back to the early days of computing!**
+- ⚡ Fun fact **Data engineers turn raw data into meaningful insights efficiently.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
